@@ -1,0 +1,29 @@
+{
+  "name": "with-oracle",
+  "version": "1.0.0",
+  "description": "Simple interface to run oracle queries",
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": ">=16.13.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxsatula/with-oracle.git"
+  },
+  "keywords": [
+    "oracle"
+  ],
+  "author": "Max Satula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxsatula/with-oracle/issues"
+  },
+  "homepage": "https://github.com/maxsatula/with-oracle#readme",
+  "dependencies": {
+    "oracledb": "^6.5.0"
+  }
+}
