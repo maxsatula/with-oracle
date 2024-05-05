@@ -1,6 +1,6 @@
 {
   "name": "with-oracle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple interface to run oracle queries",
   "main": "index.js",
   "type": "module",
