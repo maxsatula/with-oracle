@@ -17,7 +17,7 @@ Connection pooling is used.
 ### Import
 
 ```js
-import withOracle, { connect, disconnect, execute, dbms_output } from './index.js';
+import withOracle, { connect, disconnect, execute, dbms_output } from 'with-oracle';
 ```
 
 ### Connect
